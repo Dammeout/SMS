@@ -77,4 +77,6 @@ if __name__ == '__main__':
     click.secho(f'{sys.argv[0]} \u2014 Grab Activation Code (GAC) spammer',
                 fg='black',
                 bg='green')
+    click.echo(' author\tloncat <me@lcat.dev>')
+    click.echo(' url\thttps://github.com/p4kl0nc4t/Spammer-Grab\n')
     main()
